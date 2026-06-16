@@ -81,7 +81,7 @@
 <img src="https://img.shields.io/badge/LinkedIn-Jainesh%20Sanghavi-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:jaineshs301@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-jaineshs301%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="https://instagram.com/YOUR_INSTAGRAM_USERNAME">
+<img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 </p>
