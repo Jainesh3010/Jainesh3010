@@ -1,5 +1,5 @@
 <p align="center">
-<img width="450" src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif">
+<img src="https://readme-typing-svg.demolab.com?font=Exo+2&weight=700&size=34&duration=2500&pause=1000&color=00E5FF&center=true&vCenter=true&width=1000&lines=BCA+AI+%26+Data+Analytics;Data+Driven+Problem+Solver;Machine+Learning+Enthusiast;Always+Learning+Something+New"/>
 </p>
 
 
