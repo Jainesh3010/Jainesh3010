@@ -1,7 +1,11 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=220&color=0:000000,100:0A192F&text=JAINISH%20SANGHAVI&fontSize=55&fontColor=64FFDA"/>
+<h1 align="center">⚡ JAINISH SANGHAVI ⚡</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=30&duration=2200&pause=800&color=64FFDA&center=true&vCenter=true&width=900&lines=Artificial+Intelligence;Machine+Learning;Data+Analytics;Python+Developer"/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=34&duration=2000&pause=700&color=00FFFF&center=true&vCenter=true&width=1000&lines=🤖+AI+Engineer;🧠+Machine+Learning+Enthusiast;📊+Data+Analytics+Specialist;🐍+Python+Developer"/>
+</p>
+
+<p align="center">
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 </p>
 
 
