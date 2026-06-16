@@ -15,9 +15,9 @@
 
 🐍 Python Developer
 
-🚀 Currently learning Deep Learning & Data Science
+🚀 Create Projects On Ai & Ml
 
-
+<br>
 
 <h2>⚒️ Tech Stack</h2>
 <img src="https://skillicons.dev/icons?i=python,mysql,tensorflow,pytorch,git,github" />
