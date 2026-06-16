@@ -22,6 +22,6 @@
 <h2>⚒️ Tech Stack</h2>
 <img src="https://skillicons.dev/icons?i=python,mysql,tensorflow,pytorch,git,github" />
 
-<br><br>
+<br>
 
 <img src="https://skillicons.dev/icons?i=html,css,js,vscode,linux,aws" />
