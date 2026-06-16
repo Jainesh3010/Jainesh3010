@@ -1,4 +1,8 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=slice&height=300&color=0:000000,100:0F9BFF&text=Jainish%20Sanghavi&fontSize=60&fontColor=FFFFFF&animation=twinkling&rotate=12"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:000428,100:004e92&text=Jainish%20Sanghavi&fontSize=65&fontColor=00FFFF&animation=twinkling"/>
+
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=30&duration=2500&pause=800&color=00FFFF&center=true&vCenter=true&width=900&lines=🤖+AI+%26+Data+Analytics+Student;📊+Data+Driven+Problem+Solver;⚡+Machine+Learning+Explorer;🚀+Building+Smart+Solutions"/>
+</p>
 
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Audiowide&size=30&duration=2800&pause=900&color=00FFFF&center=true&vCenter=true&width=900&lines=AI+%7C+Data+Analytics;Machine+Learning+Explorer;Python+Developer;Turning+Data+Into+Insights"/>
