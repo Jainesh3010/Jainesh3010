@@ -1,7 +1,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=YOUR%20NAME&fontSize=60&fontColor=ffffff&animation=fadeIn"/>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=32&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=900&lines=🤖+BCA+AI+%26+Data+Analytics;⚡+Machine+Learning+Enthusiast;📊+Future+Data+Scientist;🚀+Building+AI+Powered+Solutions"/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=35&duration=2200&pause=700&color=00FFFF&background=00000000&center=true&vCenter=true&width=1000&lines=⚡+ARTIFICIAL+INTELLIGENCE;📊+DATA+ANALYTICS;🤖+MACHINE+LEARNING;🚀+BUILDING+THE+FUTURE"/>
 </p>
 
 <!--
