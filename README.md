@@ -1,7 +1,7 @@
 <h1 align="center">⚡ JAINISH SANGHAVI ⚡</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=34&duration=2000&pause=700&color=00FFFF&center=true&vCenter=true&width=1000&lines=🤖+AI+Engineer;🧠+Machine+Learning+Enthusiast;📊+Data+Analytics+Specialist;🐍+Python+Developer"/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=34&duration=2000&pause=700&color=00FFFF&center=true&vCenter=true&width=1000&lines=AI+Engineer;Machine+Learning+Enthusiast;Data+Analytics+Specialist;Python+Developer"/>
 </p>
 
 <p align="center">
