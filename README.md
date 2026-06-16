@@ -3,3 +3,24 @@
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Audiowide&size=30&duration=2800&pause=900&color=00FFFF&center=true&vCenter=true&width=900&lines=AI+%7C+Data+Analytics;Artificial+Intelligence+Explorer;Machine+Learning+Explorer;Python+Developer;Turning+Data+Into+Insights"/>
 </p>
+
+
+## 💫 About Me
+
+🎓 BCA (AI & Data Analytics)
+
+🤖 Passionate about Artificial Intelligence & Machine Learning
+
+📊 Turning raw data into meaningful insights
+
+🐍 Python Developer
+
+🚀 Currently learning Deep Learning & Data Science
+
+
+
+<h2>⚒️ Tech Stack</h2>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode,html,css,js,tensorflow&perline=5"/>
+</p>
