@@ -17,7 +17,7 @@
 
 🐍 Strong interest in **Python Development, Data Analytics, and Predictive Modeling**
 
-🧠 Exploring **Deep Learning, Neural Networks, Computer Vision, and Generative AI**
+🧠 Exploring **Deep Learning, Neural Networks, Computer Vision, Generative AI and Agentic AI**
 
 ⚡ Continuously learning, experimenting, and creating innovative AI-powered projects
 
