@@ -32,7 +32,7 @@
 
 <img src="https://skillicons.dev/icons?i=html,css,js,vscode,linux,aws" />
 
-
+<br>
 
 
 ## 🚀 Featured Projects
