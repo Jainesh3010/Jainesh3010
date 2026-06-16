@@ -1,6 +1,4 @@
-<p align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212744275-c56a72c2-46b2-4f3c-9f3f-ff4f8d6d3c4d.gif" width="500">
-</p>
+<img src="https://user-images.githubusercontent.com/74038190/212750547-2a7f7c7d-f7cb-4c48-9a5b-2f52d08e8f0a.gif" width="100%">
 
 
 <img src="https://readme-typing-svg.demolab.com?font=Audiowide&size=30&duration=2800&pause=900&color=00FFFF&center=true&vCenter=true&width=900&lines=AI+%7C+Data+Analytics;Machine+Learning+Explorer;Python+Developer;Turning+Data+Into+Insights"/>
