@@ -1,7 +1,8 @@
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=35&duration=2000&pause=500&color=00E5FF&center=true&vCenter=true&width=1000&lines=JAINISH+SANGHAVI;AI+%26+DATA+ANALYTICS;MACHINE+LEARNING+ENTHUSIAST;BUILDING+THE+FUTURE"/>
+<img width="450" src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif">
 </p>
-<p align="center">
+
+
 <img src="https://readme-typing-svg.demolab.com?font=Audiowide&size=30&duration=2800&pause=900&color=00FFFF&center=true&vCenter=true&width=900&lines=AI+%7C+Data+Analytics;Machine+Learning+Explorer;Python+Developer;Turning+Data+Into+Insights"/>
 </p>
 
