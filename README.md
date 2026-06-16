@@ -1,5 +1,9 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=YOUR%20NAME&fontSize=60&fontColor=ffffff&animation=fadeIn"/>
 
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=800&lines=BCA+AI+%26+Data+Analytics+Student;Machine+Learning+Enthusiast;Data+Analyst+in+Making;Building+AI+Powered+Solutions"/>
+</p>
+
 <!--
 **Jainesh3010/Jainesh3010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
