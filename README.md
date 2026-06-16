@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/74038190/212750547-2a7f7c7d-f7cb-4c48-9a5b-2f52d08e8f0a.gif" width="100%">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=blur&height=320&color=0:000000,50:001F3F,100:00E5FF&text=Jainish%20Sanghavi&fontColor=FFFFFF&fontSize=70&animation=twinkling"/>
 
 
 <img src="https://readme-typing-svg.demolab.com?font=Audiowide&size=30&duration=2800&pause=900&color=00FFFF&center=true&vCenter=true&width=900&lines=AI+%7C+Data+Analytics;Machine+Learning+Explorer;Python+Developer;Turning+Data+Into+Insights"/>
