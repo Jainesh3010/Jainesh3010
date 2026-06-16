@@ -20,7 +20,6 @@
 
 
 <h2>⚒️ Tech Stack</h2>
-<h2>⚒️ Tech Stack</h2>
 
 <p>
   <img src="https://skillicons.dev/icons?i=python" />
