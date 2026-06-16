@@ -34,21 +34,22 @@
 
 <br>
 
-
 ## 🚀 Featured Projects
 
-### 🤖 AI Resume Analyzer
-> An AI-powered system that analyzes resumes and provides smart insights.
+### 🎯 Customer Churn Prediction Model
+Developed a Machine Learning model to predict customer churn using data preprocessing, feature engineering, model training, and performance evaluation techniques.
 
-### 📊 Sales Data Dashboard
-> Interactive dashboard built for data visualization and business insights.
+### 📊 End-to-End Sales Analytics Dashboard
+Built a complete analytics solution from data cleaning and transformation to interactive dashboard creation, delivering actionable business insights.
 
-### 🎯 Student Performance Predictor
-> Machine Learning model that predicts student performance using historical data.
+### ⚡ FastAPI Prediction System
+Designed and deployed a Machine Learning prediction API using FastAPI, enabling real-time model inference and scalable deployment.
 
-### 🧠 AI Chatbot
-> Intelligent chatbot built using Python and NLP techniques.
+### 🌦️ Live Weather Analytics Dashboard
+Created a real-time weather dashboard by integrating Weather APIs, processing live data, and visualizing key weather metrics.
 
+### 🎬 Movie Recommendation System
+Developed a recommendation engine using content-based filtering techniques to suggest personalized movie recommendations.
 
 <br>
 
