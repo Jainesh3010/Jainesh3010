@@ -57,3 +57,8 @@
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jainesh3010&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
+<br>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+</p>
