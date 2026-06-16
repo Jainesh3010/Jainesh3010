@@ -31,3 +31,20 @@
 <br>
 
 <img src="https://skillicons.dev/icons?i=html,css,js,vscode,linux,aws" />
+
+
+
+
+## 🚀 Featured Projects
+
+### 🤖 AI Resume Analyzer
+> An AI-powered system that analyzes resumes and provides smart insights.
+
+### 📊 Sales Data Dashboard
+> Interactive dashboard built for data visualization and business insights.
+
+### 🎯 Student Performance Predictor
+> Machine Learning model that predicts student performance using historical data.
+
+### 🧠 AI Chatbot
+> Intelligent chatbot built using Python and NLP techniques.
