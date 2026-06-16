@@ -59,6 +59,12 @@
 </p>
 <br>
 
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
-</p>
+## 🏆 Achievements
+
+🥇 Building AI & ML Projects
+
+📚 Continuous Learning in AI, Data Science & Analytics
+
+🚀 Open Source Contributor
+
+💡 Passionate Problem Solver
