@@ -33,23 +33,22 @@
 <img src="https://skillicons.dev/icons?i=html,css,js,vscode,linux,aws" />
 
 <br>
-
 ## 🚀 Featured Projects
 
-### 🎯 Customer Churn Prediction Model
-Developed a Machine Learning model to predict customer churn using data preprocessing, feature engineering, model training, and performance evaluation techniques.
+### 🤖 Customer Churn Prediction
+> Predicting customer retention using Machine Learning algorithms, feature engineering, and predictive analytics.
 
-### 📊 End-to-End Sales Analytics Dashboard
-Built a complete analytics solution from data cleaning and transformation to interactive dashboard creation, delivering actionable business insights.
+### 📈 Sales Analytics Dashboard
+> Transforming business data into actionable insights through interactive dashboards and KPI visualization.
 
-### ⚡ FastAPI Prediction System
-Designed and deployed a Machine Learning prediction API using FastAPI, enabling real-time model inference and scalable deployment.
+### ⚡ FastAPI Prediction Engine
+> Real-time Machine Learning prediction service built with FastAPI and deployed for scalable inference.
 
-### 🌦️ Live Weather Analytics Dashboard
-Created a real-time weather dashboard by integrating Weather APIs, processing live data, and visualizing key weather metrics.
+### 🌩️ Weather Intelligence Dashboard
+> Live weather monitoring and analytics platform powered by external APIs and dynamic visualizations.
 
-### 🎬 Movie Recommendation System
-Developed a recommendation engine using content-based filtering techniques to suggest personalized movie recommendations.
+### 🎥 Movie Recommendation Engine
+> Personalized movie recommendation system leveraging content similarity and machine learning concepts.
 
 <br>
 
