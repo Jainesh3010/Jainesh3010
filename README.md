@@ -20,18 +20,8 @@
 
 
 <h2>⚒️ Tech Stack</h2>
+<img src="https://skillicons.dev/icons?i=python,mysql,tensorflow,pytorch,git,github" />
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python" />
-  <img src="https://skillicons.dev/icons?i=mysql" />
-  <img src="https://skillicons.dev/icons?i=git" />
-  <img src="https://skillicons.dev/icons?i=github" />
-  <img src="https://skillicons.dev/icons?i=vscode" />
-  <img src="https://skillicons.dev/icons?i=tensorflow" />
-</p>
+<br><br>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html" />
-  <img src="https://skillicons.dev/icons?i=css" />
-  <img src="https://skillicons.dev/icons?i=js" />
-</p>
+<img src="https://skillicons.dev/icons?i=html,css,js,vscode,linux,aws" />
