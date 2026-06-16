@@ -74,12 +74,14 @@
 
 <br>
 
+## 🌐 Connect With Me
+
 <p>
-<a href="https://linkedin.com/in/your-linkedin">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://www.linkedin.com/in/jainesh-sanghavi-4aba35341">
+<img src="https://img.shields.io/badge/LinkedIn-Jainesh%20Sanghavi-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:jaineshs301@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-jaineshs301%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 </p>
