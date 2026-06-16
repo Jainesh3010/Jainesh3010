@@ -1,8 +1,8 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=300&text=Jainish%20Sanghavi&fontSize=60&color=0:00F5FF,100:0072FF&fontColor=ffffff&animation=fadeIn"/>
+
 
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=42&duration=1500&pause=500&color=00F7FF&center=true&vCenter=true&width=1200&height=80&lines=⚡+JAINISH+SANGHAVI+⚡"/>
+<img src="https://user-images.githubusercontent.com/74038190/216656963-09118229-c296-4f4f-8e78-0c2b94e7d4e1.gif" width="100%">
 </p>
 
 
