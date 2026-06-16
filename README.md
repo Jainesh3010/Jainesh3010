@@ -7,15 +7,21 @@
 
 ## 💫 About Me
 
-🎓 BCA (AI & Data Analytics)
+🚀 **Jainish Sanghavi** — Aspiring **AI & Machine Learning Engineer**
 
-🤖 Passionate about Artificial Intelligence & Machine Learning
+🎓 Pursuing **BCA in Artificial Intelligence & Data Analytics**
 
-📊 Turning raw data into meaningful insights
+🤖 Passionate about building intelligent systems using **AI, Machine Learning, and Data Science**
 
-🐍 Python Developer
+📊 Transforming raw data into meaningful insights and data-driven solutions
 
-🚀 Create Projects On Ai & Ml
+🐍 Strong interest in **Python Development, Data Analytics, and Predictive Modeling**
+
+🧠 Exploring **Deep Learning, Neural Networks, Computer Vision, and Generative AI**
+
+⚡ Continuously learning, experimenting, and creating innovative AI-powered projects
+
+🎯 Goal: To become a skilled **AI/ML Engineer** and contribute to real-world intelligent solutions
 
 <br>
 
