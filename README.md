@@ -20,7 +20,14 @@
 
 
 <h2>⚒️ Tech Stack</h2>
+## ⚒️ Tech Stack
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode,html,css,js,tensorflow&perline=5"/>
-</p>
+<img src="https://skillicons.dev/icons?i=python" />
+<img src="https://skillicons.dev/icons?i=tensorflow" />
+<img src="https://skillicons.dev/icons?i=mysql" />
+<img src="https://skillicons.dev/icons?i=git" />
+<img src="https://skillicons.dev/icons?i=github" />
+<img src="https://skillicons.dev/icons?i=vscode" />
+<img src="https://skillicons.dev/icons?i=html" />
+<img src="https://skillicons.dev/icons?i=css" />
+<img src="https://skillicons.dev/icons?i=js" />
