@@ -1,7 +1,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0F0C29,50:302B63,100:24243E&text=Jainish%20Sanghavi&fontSize=65&fontColor=00E5FF&animation=twinkling&fontAlignY=38"/>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=28&duration=2500&pause=1000&color=00E5FF&center=true&vCenter=true&width=850&lines=AI+%26+Machine+Learning+Engineer;Data+Analytics+Enthusiast;Python+Developer;Building+Intelligent+Solutions"/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=28&duration=2500&pause=1000&color=00E5FF&center=true&vCenter=true&width=850&lines=AI+%26+Machine+Learning+Engineer;Data+Analytics;Python+Developer;Building+Intelligent+Solutions"/>
 </p>
 
 
